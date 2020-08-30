@@ -10,5 +10,5 @@ spring:
 #测试环境
 spring:
   application:
-    name: abcmsc-config-test
+    name: msc-config-test-devXiugai
   profiles: test
